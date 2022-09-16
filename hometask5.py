@@ -1,7 +1,7 @@
 # First one
-a = float(input('Enter number a:'))
-b = float(input('Enter number b:'))
-c = float(input('Enter number c:'))
+a = int(input('Enter number a:'))
+b = int(input('Enter number b:'))
+c = int(input('Enter number c:'))
 if a > 10 < b <= c and b % 3 == 0 == a % 3:
     print('yes')
 else:
