@@ -2,7 +2,7 @@
 a = int(input('Enter number a:'))
 b = int(input('Enter number b:'))
 c = int(input('Enter number c:'))
-if a > 10 < b > 10 < c and b % 3 == 0 == a % 3:
+if a > 10 < b and c > 10 and b % 3 == 0 == a % 3:
     print('yes')
 else:
     print('no')
